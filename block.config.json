@@ -1,0 +1,21 @@
+{
+  "name": "pull_test1",
+  "type": "package",
+  "blockId": "GtIdg1ynp3uPHprQPt9QG",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_PackageA_12Oct_fn"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "PackageA_12Oct_fn": {
+      "directory": "PackageA_12Oct_fn"
+    }
+  }
+}

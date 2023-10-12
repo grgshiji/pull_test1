@@ -1,0 +1,22 @@
+{
+  "blockId": "NDED4UddTZdJ3CYIkRDGl",
+  "name": "PackageA_12Oct_fn",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_PackageA_12Oct_fn"
+  },
+  "parentBlockIDs": [
+    "GtIdg1ynp3uPHprQPt9QG"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js",
+  "variantOf": "VGg4q7Mtin55WIcdh8MRB",
+  "variantOfBlockId": "CReV2dszFC0Fz1aTbR1qS"
+}
